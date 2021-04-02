@@ -22,6 +22,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Vollmond](https://puppetmaster.itch.io/vollmond)
 - [rymd](https://profan.itch.io/rymd)
 - [Scream mr. Jack](https://kakoeimon.itch.io/scream-mr-jack)
+- [Power Kick](https://kakoeimon.itch.io/power-kick)
 
 ## Visualizations
 
