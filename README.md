@@ -17,6 +17,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Zemeroth](https://github.com/ozkriff/zemeroth)
 - [Dig Escape](https://github.com/TanTanDev/DigEscape)
 - [Fish Game](https://github.com/heroiclabs/fishgame-macroquad)
+- [Crate Before Attack](https://cratebeforeattack.com)
 
 ## Visualizations
 
