@@ -29,6 +29,10 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 - [Platformer book](https://github.com/not-fl3/platformer-book)
 
+## Publications
+
+- [Rust Gamedev Podcast 4: Interview with Fedor Logachev](https://rustgamedev.com/episodes/interview-with-fedor-logachev)
+
 ## Example usage
 
 - [With naia](https://github.com/naia-rs/naia-macroquad-example)
