@@ -20,6 +20,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Crate Before Attack](https://cratebeforeattack.com)
 - [Rusty Aquarium](https://github.com/ollej/rusty-aquarium)
 - [Vollmond](https://puppetmaster.itch.io/vollmond)
+- [rymd](https://profan.itch.io/rymd)
 
 ## Visualizations
 
