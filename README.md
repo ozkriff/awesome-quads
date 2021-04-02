@@ -26,6 +26,10 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 - [Portal Explorer](https://github.com/optozorax/portal)
 
+## Apps
+
+- [Particles editor](https://github.com/not-fl3/particles-editor)
+
 ## Docs
 
 - [Platformer book](https://github.com/not-fl3/platformer-book)
@@ -60,7 +64,3 @@ Plugin has additional `.js` file, so to use it, you need to do extra work.
 * [`quad-snd`](https://github.com/not-fl3/quad-snd) — to play sound.
 * [`quad-net`](https://github.com/not-fl3/quad-net) — to use network.
 * [`quad-url`](https://github.com/optozorax/quad-url) — to change current url, and open links.
-
-## ?
-
-- [Particles editor](https://github.com/not-fl3/particles-editor)
