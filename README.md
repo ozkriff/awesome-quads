@@ -50,6 +50,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [quad-rand](https://github.com/not-fl3/quad-rand)
 - [imgui miniquad](https://github.com/not-fl3/imgui-miniquad-render)
 - [egui macroquad](https://github.com/optozorax/egui-macroquad)
+- [circle2D](https://github.com/koalefant/circle2d)
 
 ## Plugins
 
@@ -62,5 +63,4 @@ Plugin has additional `.js` file, so to use it, you need to do extra work.
 
 ## ?
 
-- [circle2D](https://github.com/koalefant/circle2d)
 - [Particles editor](https://github.com/not-fl3/particles-editor)
