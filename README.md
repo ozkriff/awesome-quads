@@ -31,6 +31,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 ## Apps
 
 - [Particles editor](https://github.com/not-fl3/particles-editor)
+- [bema](https://github.com/yazgoo/bema) - slideshow DSL
 
 ## Docs
 
