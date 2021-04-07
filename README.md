@@ -48,6 +48,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [With naia](https://github.com/naia-rs/naia-macroquad-example)
 - [With nakama](https://github.com/heroiclabs/fishgame-macroquad)
 - [JS interop](https://github.com/not-fl3/miniquad-js-interop-demo)
+- [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen)
 
 ## Libraries
 
