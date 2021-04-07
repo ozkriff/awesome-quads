@@ -23,6 +23,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [rymd](https://profan.itch.io/rymd)
 - [Scream mr. Jack](https://kakoeimon.itch.io/scream-mr-jack)
 - [Power Kick](https://kakoeimon.itch.io/power-kick)
+- [Soldank](https://github.com/smokku/soldank)
 
 ## Visualizations
 
