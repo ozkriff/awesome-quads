@@ -33,6 +33,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 - [Particles editor](https://github.com/not-fl3/particles-editor)
 - [bema](https://github.com/yazgoo/bema) - slideshow DSL
+- [Rusty Slider](https://github.com/ollej/rusty-slider) - markdown slideshow viewer
 
 ## Docs
 
