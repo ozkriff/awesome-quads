@@ -56,17 +56,17 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [With naia](https://github.com/naia-rs/naia-macroquad-example) - a cross-platform (including Wasm!) networking engine built in Rust.
 - [With nakama](https://github.com/heroiclabs/fishgame-macroquad) - open-source scalable game server.
 - [JS interop](https://github.com/not-fl3/miniquad-js-interop-demo) as example for writing your own plugins.
-- [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - `good-web-game` + `wasm-bindgen` example
+- [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - `good-web-game` + [`wasm-bindgen`](https://github.com/rustwasm/wasm-bindgen) example
 
 ## Libraries
 
 ### Integrations
 
-- [`bevy_miniquad`](https://github.com/smokku/bevy_miniquad) - [bevy](https://github.com/bevyengine/bevy) + `miniquad`.
-- [`egui-miniquad`](https://github.com/not-fl3/egui-miniquad) - [egui](https://github.com/emilk/egui) in `miniquad`.
-- [`egui-macroquad`](https://github.com/optozorax/egui-macroquad) - [egui](https://github.com/emilk/egui) in `macroquad`.
-- [`miniquad_text_rusttype`](https://github.com/not-fl3/miniquad_text_rusttype) - [rusttype](https://github.com/redox-os/rusttype) in `miniquad`.
-- [`imgui-miniquad-render`](https://github.com/not-fl3/imgui-miniquad-render) - [imgui-rs](https://github.com/imgui-rs/imgui-rs) in `miniquad`.
+- [`bevy_miniquad`](https://github.com/smokku/bevy_miniquad) - [`bevy`](https://github.com/bevyengine/bevy) + `miniquad`.
+- [`miniquad_text_rusttype`](https://github.com/not-fl3/miniquad_text_rusttype) - [`rusttype`](https://github.com/redox-os/rusttype) in `miniquad`.
+- [`egui-miniquad`](https://github.com/not-fl3/egui-miniquad) - [`egui`](https://github.com/emilk/egui) in `miniquad`.
+- [`egui-macroquad`](https://github.com/optozorax/egui-macroquad) - [`egui`](https://github.com/emilk/egui) in `macroquad`.
+- [`imgui-miniquad-render`](https://github.com/not-fl3/imgui-miniquad-render) - [`imgui-rs`](https://github.com/imgui-rs/imgui-rs) in `miniquad`.
 
 ### Plugins
 
@@ -80,6 +80,6 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 ### Other
 
 - [`gesture-recogrizer`](https://github.com/optozorax/gesture-recognizer) - library for recognizing simple touch gestures.
-- [`sapp-console-log`](https://github.com/canadaduane/sapp-console-log) - [log-rs](https://github.com/rust-lang/log) compatible logging for sapp-wasm.
+- [`sapp-console-log`](https://github.com/canadaduane/sapp-console-log) - [`log-rs`](https://github.com/rust-lang/log) compatible logging for sapp-wasm.
 - [`quad-rand`](https://github.com/not-fl3/quad-rand) - wasm-friendly random number generator for quads.
 - [`circle2d`](https://github.com/koalefant/circle2d) - little physics library with only circles, used in [Crate Before Attack](https://cratebeforeattack.com).
