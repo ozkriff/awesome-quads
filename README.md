@@ -12,26 +12,36 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ## Games
 
-- [Rusty Demon Attack](https://github.com/TanTanDev/rusty_demon_attack) - A game inspired by the classic atari game: demon attack.
-- [Fermi Paradox](https://github.com/tversteeg/ld46) - arcanoid-like game with moving enemies in space.
+### On top of `macroquad`
+
+- [Rusty Demon Attack](https://github.com/TanTanDev/rusty_demon_attack) - game inspired by the classic atari game: demon attack.
 - [Zemeroth](https://github.com/ozkriff/zemeroth) - turn-based hexagonal tactical game.
-- [Dig Escape](https://github.com/TanTanDev/DigEscape) - simple puzzle game about digging.
 - [Fish Game](https://github.com/heroiclabs/fishgame-macroquad) - online multiplayer game, created as a demonstration of [Nakama](https://heroiclabs.com/), an open-source scalable game server.
-- [Crate Before Attack](https://cratebeforeattack.com) - worms-like multiplayer game where frogs combat their friends while navigating a landscape with their sticky tongue. It is a hybrid of a realtime and turn-based game. 
 - [Vollmond](https://puppetmaster.itch.io/vollmond) - small non violent adventure in the style of Zelda 2.
 - [rymd](https://profan.itch.io/rymd) - space shooter game prototype.
 - [Scream mr. Jack](https://kakoeimon.itch.io/scream-mr-jack) - ???.
 - [Power Kick](https://kakoeimon.itch.io/power-kick) - platformer fighting game.
 - [Soldank](https://github.com/smokku/soldank) - a remake of Soldat game, made using macroquad and laminar
 
+### On top of `miniquad`
+
+- [Fermi Paradox](https://github.com/tversteeg/ld46) - arcanoid-like game with moving enemies in space.
+- [Crate Before Attack](https://cratebeforeattack.com) - worms-like multiplayer game where frogs combat their friends while navigating a landscape with their sticky tongue. It is a hybrid of a realtime and turn-based game. 
+
+### On top of `good-web-game`
+
+- [Dig Escape](https://github.com/TanTanDev/DigEscape) - simple puzzle game about digging.
+ 
 ## Visualizations
+
+### On top of `macroquad`
 
 - [Portal Explorer](https://github.com/optozorax/portal) - web visualizator of mind-blowing portals.
 - [Rusty Aquarium](https://github.com/ollej/rusty-aquarium) - a monitoring visualization as an aquarium.
 
 ## Apps
 
-- [Particles editor](https://github.com/not-fl3/particles-editor) for your games in macroquad.
+- [Particles editor](https://github.com/not-fl3/particles-editor) for your games in `macroquad`.
 - [bema](https://github.com/yazgoo/bema) - slideshow DSL.
 - [Rusty Slider](https://github.com/ollej/rusty-slider) - markdown slideshow viewer.
 
