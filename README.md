@@ -4,11 +4,11 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ## Game engines
 
-- [miniquad](https://github.com/not-fl3/miniquad) - main crate, engines below build on top of it. Supports WASM. Therefore everything build on top of it supports WASM too.
-- [macroquad](https://github.com/not-fl3/macroquad) - simple to use library from author of `miniquad`.
-- [good-web-game](https://github.com/not-fl3/good-web-game) - crate to easily port your [ggez](https://github.com/ggez/ggez) to WASM. You shouldn't use this crate when you creating new project.
-- [emerald](https://github.com/Bombfuse/emerald) - game engine with physics, audio, graphics, ECS.
-- [nonaquad](https://github.com/nokola/nonaquad) - vector anti-aliased graphics renderer.
+- [`miniquad`](https://github.com/not-fl3/miniquad) - main crate, engines below build on top of it. Supports WASM. Therefore everything build on top of it supports WASM too.
+- [`macroquad`](https://github.com/not-fl3/macroquad) - simple to use library from author of `miniquad`.
+- [`good-web-game`](https://github.com/not-fl3/good-web-game) - crate to easily port your [ggez](https://github.com/ggez/ggez) to WASM. You shouldn't use this crate when you creating new project.
+- [`emerald`](https://github.com/Bombfuse/emerald) - game engine with physics, audio, graphics, ECS.
+- [`nonaquad`](https://github.com/nokola/nonaquad) - vector anti-aliased graphics renderer.
 
 ## Games
 
@@ -32,15 +32,12 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 - [Dig Escape](https://github.com/TanTanDev/DigEscape) - simple puzzle game about digging.
  
-## Visualizations
+## Apps or visualizations
 
 ### On top of `macroquad`
 
 - [Portal Explorer](https://github.com/optozorax/portal) - web visualizator of mind-blowing portals.
 - [Rusty Aquarium](https://github.com/ollej/rusty-aquarium) - a monitoring visualization as an aquarium.
-
-## Apps
-
 - [Particles editor](https://github.com/not-fl3/particles-editor) for your games in `macroquad`.
 - [bema](https://github.com/yazgoo/bema) - slideshow DSL.
 - [Rusty Slider](https://github.com/ollej/rusty-slider) - markdown slideshow viewer.
@@ -65,11 +62,11 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ### Integrations
 
-- [bevy_miniquad](https://github.com/smokku/bevy_miniquad) - [bevy](https://github.com/bevyengine/bevy) + `miniquad` render plugin.
-- [egui-miniquad](https://github.com/not-fl3/egui-miniquad) - [egui](https://github.com/emilk/egui) in `miniquad`.
-- [egui-macroquad](https://github.com/optozorax/egui-macroquad) - [egui](https://github.com/emilk/egui) in `macroquad`.
-- [miniquad_text_rusttype](https://github.com/not-fl3/miniquad_text_rusttype) - [rusttype](https://github.com/redox-os/rusttype) in `miniquad`.
-- [imgui-miniquad-render](https://github.com/not-fl3/imgui-miniquad-render) - [imgui-rs](https://github.com/imgui-rs/imgui-rs) in `miniquad`.
+- [`bevy_miniquad`](https://github.com/smokku/bevy_miniquad) - [bevy](https://github.com/bevyengine/bevy) + `miniquad`.
+- [`egui-miniquad`](https://github.com/not-fl3/egui-miniquad) - [egui](https://github.com/emilk/egui) in `miniquad`.
+- [`egui-macroquad`](https://github.com/optozorax/egui-macroquad) - [egui](https://github.com/emilk/egui) in `macroquad`.
+- [`miniquad_text_rusttype`](https://github.com/not-fl3/miniquad_text_rusttype) - [rusttype](https://github.com/redox-os/rusttype) in `miniquad`.
+- [`imgui-miniquad-render`](https://github.com/not-fl3/imgui-miniquad-render) - [imgui-rs](https://github.com/imgui-rs/imgui-rs) in `miniquad`.
 
 ### Plugins
 
@@ -82,7 +79,7 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 
 ### Other
 
-- [gesture-recogrizer](https://github.com/optozorax/gesture-recognizer) - library for recognizing simple touch gestures.
-- [sapp-console-log](https://github.com/canadaduane/sapp-console-log) - [log-rs](https://github.com/rust-lang/log) compatible logging for sapp-wasm.
-- [quad-rand](https://github.com/not-fl3/quad-rand) - wasm-friendly random number generator for quads.
-- [circle2D](https://github.com/koalefant/circle2d) - little physics library with only circles, used in [Crate Before Attack](https://cratebeforeattack.com).
+- [`gesture-recogrizer`](https://github.com/optozorax/gesture-recognizer) - library for recognizing simple touch gestures.
+- [`sapp-console-log`](https://github.com/canadaduane/sapp-console-log) - [log-rs](https://github.com/rust-lang/log) compatible logging for sapp-wasm.
+- [`quad-rand`](https://github.com/not-fl3/quad-rand) - wasm-friendly random number generator for quads.
+- [`circle2d`](https://github.com/koalefant/circle2d) - little physics library with only circles, used in [Crate Before Attack](https://cratebeforeattack.com).
