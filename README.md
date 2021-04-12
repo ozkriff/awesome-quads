@@ -47,7 +47,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ## Docs
 
-- [Platformer book](https://github.com/not-fl3/platformer-book) - WIP book about creating your platformer game in macroquad.
+- [Platformer book](https://github.com/not-fl3/platformer-book) - WIP book about creating your platformer game in `macroquad`.
 
 ## Publications
 
@@ -58,26 +58,31 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 - [With naia](https://github.com/naia-rs/naia-macroquad-example) - a cross-platform (including Wasm!) networking engine built in Rust.
 - [With nakama](https://github.com/heroiclabs/fishgame-macroquad) - open-source scalable game server.
-- [JS interop](https://github.com/not-fl3/miniquad-js-interop-demo) for writing your plugins.
-- [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - GWG + wasm-bindgen example
+- [JS interop](https://github.com/not-fl3/miniquad-js-interop-demo) as example for writing your own plugins.
+- [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - `good-web-game` + `wasm-bindgen` example
 
 ## Libraries
 
-- [bevy_miniquad](https://github.com/smokku/bevy_miniquad) - [Bevy engine](https://github.com/bevyengine/bevy) + miniquad render plugin.
-- [gesture-recogrizer](https://github.com/optozorax/gesture-recognizer) - library for recognizing simple touch gestures.
-- [sapp-console-log](https://github.com/canadaduane/sapp-console-log) - [log-rs](https://github.com/rust-lang/log) compatible logging for sapp-wasm.
-- [egui-miniquad](https://github.com/not-fl3/egui-miniquad) - [egui](https://github.com/emilk/egui) in [miniquad](https://github.com/not-fl3/miniquad).
-- [egui-macroquad](https://github.com/optozorax/egui-macroquad) - [egui](https://github.com/emilk/egui) in [macroquad](https://github.com/not-fl3/macroquad).
-- [miniquad_text_rusttype](https://github.com/not-fl3/miniquad_text_rusttype) - [rusttype](https://github.com/redox-os/rusttype) in [miniquad](https://github.com/not-fl3/miniquad).
-- [quad-rand](https://github.com/not-fl3/quad-rand) - wasm-friendly random number generator for quads.
-- [imgui miniquad](https://github.com/not-fl3/imgui-miniquad-render) - [imgui-rs](https://github.com/imgui-rs/imgui-rs) in [miniquad].
-- [circle2D](https://github.com/koalefant/circle2d) - little physics library with only circles, used in [Crate Before Attack](https://cratebeforeattack.com).
+### Integrations
 
-## Plugins
+- [bevy_miniquad](https://github.com/smokku/bevy_miniquad) - [bevy](https://github.com/bevyengine/bevy) + `miniquad` render plugin.
+- [egui-miniquad](https://github.com/not-fl3/egui-miniquad) - [egui](https://github.com/emilk/egui) in `miniquad`.
+- [egui-macroquad](https://github.com/optozorax/egui-macroquad) - [egui](https://github.com/emilk/egui) in `macroquad`.
+- [miniquad_text_rusttype](https://github.com/not-fl3/miniquad_text_rusttype) - [rusttype](https://github.com/redox-os/rusttype) in `miniquad`.
+- [imgui-miniquad-render](https://github.com/not-fl3/imgui-miniquad-render) - [imgui-rs](https://github.com/imgui-rs/imgui-rs) in `miniquad`.
 
-Plugin has additional `.js` file, so to use it, you need to do extra work. Before deploying of your project on WASM, you could look at your dependencies using `cargo tree` and find these crates.
+### Plugins
+
+Plugin has additional `.js` file, so to use it, you need to do extra work. Before deploying of your project on WASM, you could look at your dependencies using `cargo tree` and if you find these crates, add `.js` file from them.
 
 * [`sapp-jsutils`](https://github.com/not-fl3/sapp-jsutils/) - to build plugins. If you want to send/receive string or arbitrary object to JS, you should look at this.
 * [`quad-snd`](https://github.com/not-fl3/quad-snd) - to play sound.
 * [`quad-net`](https://github.com/not-fl3/quad-net) - to use network.
-* [`quad-url`](https://github.com/optozorax/quad-url) - to change current url, and open links.
+* [`quad-url`](https://github.com/optozorax/quad-url) - to change current url, search parameters, and open links.
+
+### Other
+
+- [gesture-recogrizer](https://github.com/optozorax/gesture-recognizer) - library for recognizing simple touch gestures.
+- [sapp-console-log](https://github.com/canadaduane/sapp-console-log) - [log-rs](https://github.com/rust-lang/log) compatible logging for sapp-wasm.
+- [quad-rand](https://github.com/not-fl3/quad-rand) - wasm-friendly random number generator for quads.
+- [circle2D](https://github.com/koalefant/circle2d) - little physics library with only circles, used in [Crate Before Attack](https://cratebeforeattack.com).
