@@ -22,6 +22,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Scream mr. Jack](https://kakoeimon.itch.io/scream-mr-jack) - ???.
 - [Power Kick](https://kakoeimon.itch.io/power-kick) - platformer fighting game.
 - [Soldank](https://github.com/smokku/soldank) - a remake of Soldat game, made using macroquad and laminar
+- [The Submariner](https://kettlecorn.itch.io/submariner) - a minimalist action game made for the LD48 Compo.
 
 ### On top of `miniquad`
 
