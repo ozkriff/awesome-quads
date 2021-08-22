@@ -42,6 +42,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Particles editor](https://github.com/not-fl3/particles-editor) for your games in `macroquad`.
 - [bema](https://github.com/yazgoo/bema) - slideshow DSL.
 - [Rusty Slider](https://github.com/ollej/rusty-slider) - markdown slideshow viewer.
+- [Sugarcubes](https://github.com/henryksloan/sugarcubes) - a tool for designing and testing automata.
 
 ## Docs
 
