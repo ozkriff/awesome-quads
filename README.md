@@ -9,7 +9,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [`good-web-game`](https://github.com/not-fl3/good-web-game) - crate to easily port your [ggez](https://github.com/ggez/ggez) to WASM. You shouldn't use this crate when you creating new project.
 - [`emerald`](https://github.com/Bombfuse/emerald) - game engine with physics, audio, graphics, ECS.
 - [`nonaquad`](https://github.com/nokola/nonaquad) - vector anti-aliased graphics renderer.
-- [`rust_rpg_toolkit`](https://github.com/olefasting/rust_rpg_toolkit) - A framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON
+- [`rust_rpg_toolkit`](https://github.com/olefasting/rust_rpg_toolkit) - a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.
 
 ## Games
 
