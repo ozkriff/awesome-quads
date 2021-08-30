@@ -22,13 +22,13 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [rymd](https://profan.itch.io/rymd) - space shooter game prototype.
 - [Scream mr. Jack](https://kakoeimon.itch.io/scream-mr-jack) - ???.
 - [Power Kick](https://kakoeimon.itch.io/power-kick) - platformer fighting game.
-- [Soldank](https://github.com/smokku/soldank) - a remake of Soldat game, made using macroquad and laminar
 - [The Submariner](https://kettlecorn.itch.io/submariner) - a minimalist action game made for the LD48 Compo.
 
 ### On top of `miniquad`
 
 - [Fermi Paradox](https://github.com/tversteeg/ld46) - arcanoid-like game with moving enemies in space.
 - [Crate Before Attack](https://cratebeforeattack.com) - worms-like multiplayer game where frogs combat their friends while navigating a landscape with their sticky tongue. It is a hybrid of a realtime and turn-based game. 
+- [Soldank](https://github.com/smokku/soldank) - a remake of Soldat game
 
 ### On top of `good-web-game`
 
