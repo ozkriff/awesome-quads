@@ -23,6 +23,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Scream mr. Jack](https://kakoeimon.itch.io/scream-mr-jack) - ???.
 - [Power Kick](https://kakoeimon.itch.io/power-kick) - platformer fighting game.
 - [The Submariner](https://kettlecorn.itch.io/submariner) - a minimalist action game made for the LD48 Compo.
+- [Totally Relaxing Golf](https://r3s.itch.io/totally-relaxing-golf) - a very, VERY, relaxing golf game made for Brackeys Game Jam 2021.2.
 
 ### On top of `miniquad`
 
