@@ -10,6 +10,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [`emerald`](https://github.com/Bombfuse/emerald) - game engine with physics, audio, graphics, ECS.
 - [`nonaquad`](https://github.com/nokola/nonaquad) - vector anti-aliased graphics renderer.
 - [`rust_rpg_toolkit`](https://github.com/olefasting/rust_rpg_toolkit) - a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.
+- [`femtovg`](https://github.com/smokku/femtovg) - antialiased 2D vector drawing library - miniquad port.
 
 ## Games
 
