@@ -24,6 +24,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [The Submariner](https://kettlecorn.itch.io/submariner) - a minimalist action game made for the LD48 Compo.
 - [Totally Relaxing Golf](https://r3s.itch.io/totally-relaxing-golf) - a very, VERY, relaxing golf game made for Brackeys Game Jam 2021.2.
 - [Planetoid](https://github.com/uggla/planetoid) - a toy project with a goal of creating a multiplayer asteroid game.
+- [cubedesu](https://github.com/stanleydesu/cubedesu) - Rubik's Cube simulator.
 
 ### On top of `miniquad`
 
