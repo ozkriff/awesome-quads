@@ -26,6 +26,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Planetoid](https://github.com/uggla/planetoid) - a toy project with a goal of creating a multiplayer asteroid game.
 - [cubedesu](https://github.com/stanleydesu/cubedesu) - Rubik's Cube simulator.
 - [Procedural Spider](https://darthdeus.itch.io/procedural-spider) - a game where you play a big spider chasing small spiders made for LD49.
+- [onitama_macroquad](https://github.com/Hydrazer/onitama_macroquad) - Onitama implementation.
 
 ### On top of `miniquad`
 
