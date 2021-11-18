@@ -8,7 +8,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [`macroquad`](https://github.com/not-fl3/macroquad) - simple to use library from author of `miniquad`.
 - [`good-web-game`](https://github.com/not-fl3/good-web-game) - crate to easily port your [ggez](https://github.com/ggez/ggez) to WASM. You shouldn't use this crate when you creating new project.
 - [`emerald`](https://github.com/Bombfuse/emerald) - game engine with physics, audio, graphics, ECS.
-- [`rust_rpg_toolkit`](https://github.com/olefasting/rust_rpg_toolkit) - a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.
+- [`rust-rpg-toolkit`](https://github.com/olefasting/rust_rpg_toolkit) - a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.
 
 ## Games
 
@@ -17,6 +17,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Rusty Demon Attack](https://github.com/TanTanDev/rusty_demon_attack) - game inspired by the classic atari game: demon attack.
 - [Zemeroth](https://github.com/ozkriff/zemeroth) - turn-based hexagonal tactical game.
 - [Fish Game](https://github.com/heroiclabs/fishgame-macroquad) - online multiplayer game, created as a demonstration of [Nakama](https://heroiclabs.com/), an open-source scalable game server.
+- [Fish Fight](https://github.com/fishfight/FishFight) - a continuation of [Fish Game](https://github.com/heroiclabs/fishgame-macroquad) that is developed as an open source project but aims for commercial release across multiple platforms
 - [Vollmond](https://puppetmaster.itch.io/vollmond) - small non violent adventure in the style of Zelda 2.
 - [rymd](https://profan.itch.io/rymd) - space shooter game prototype.
 - [Scream mr. Jack](https://kakoeimon.itch.io/scream-mr-jack) - ???.
@@ -31,13 +32,13 @@ A curated list of links to miniquad/macroquad-related code & resources.
 ### On top of `miniquad`
 
 - [Fermi Paradox](https://github.com/tversteeg/ld46) - arcanoid-like game with moving enemies in space.
-- [Crate Before Attack](https://cratebeforeattack.com) - worms-like multiplayer game where frogs combat their friends while navigating a landscape with their sticky tongue. It is a hybrid of a realtime and turn-based game. 
+- [Crate Before Attack](https://cratebeforeattack.com) - worms-like multiplayer game where frogs combat their friends while navigating a landscape with their sticky tongue. It is a hybrid of a realtime and turn-based game.
 - [Soldank](https://github.com/smokku/soldank) - a remake of Soldat game
 
 ### On top of `good-web-game`
 
 - [Dig Escape](https://github.com/TanTanDev/DigEscape) - simple puzzle game about digging.
- 
+
 ## Apps or visualizations
 
 ### On top of `macroquad`
