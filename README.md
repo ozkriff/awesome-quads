@@ -9,6 +9,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [`good-web-game`](https://github.com/not-fl3/good-web-game) - crate to easily port your [ggez](https://github.com/ggez/ggez) to WASM.
 - [`emerald`](https://github.com/Bombfuse/emerald) - game engine with physics, audio, graphics, ECS.
 - [`rust-rpg-toolkit`](https://github.com/olefasting/rust_rpg_toolkit) - a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.
+- [`omegaquad`](https://github.com/gamma-delta/omegaquad) - hackable, opinionated layer on top of Macroquad for writing games
 
 ## Games
 
@@ -28,6 +29,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [cubedesu](https://github.com/stanleydesu/cubedesu) - Rubik's Cube simulator.
 - [Procedural Spider](https://darthdeus.itch.io/procedural-spider) - a game where you play a big spider chasing small spiders made for LD49.
 - [onitama_macroquad](https://github.com/Hydrazer/onitama_macroquad) - Onitama implementation.
+- [Excavation Site Alpha](https://github.com/gamma-delta/excavation-site-alpha) - build as far down into the earth as you can for LD48.
 
 ### On top of `miniquad`
 
