@@ -35,7 +35,8 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 - [Fermi Paradox](https://github.com/tversteeg/ld46) - arcanoid-like game with moving enemies in space.
 - [Crate Before Attack](https://cratebeforeattack.com) - worms-like multiplayer game where frogs combat their friends while navigating a landscape with their sticky tongue. It is a hybrid of a realtime and turn-based game.
-- [Soldank](https://github.com/smokku/soldank) - a remake of Soldat game
+- [Soldank](https://github.com/smokku/soldank) - a remake of Soldat game.
+- [Fires of Eschaton](https://firesofeschaton.com/) - a PvP focused turn-based fantasy tactics game.
 
 ### On top of `good-web-game`
 
