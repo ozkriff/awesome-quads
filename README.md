@@ -64,6 +64,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - Audio: [Rust Gamedev Podcast 4: Interview with Fedor Logachev](https://rustgamedev.com/episodes/interview-with-fedor-logachev)
 - Video: [I learnt OpenGL in 7 days using Rust](https://youtube.com/watch?v=KEQIWqSq42k) by [@TanTanDev](https://github.com/TanTanDev/).
 - Video: [I made a game playable on Midi Controller](https://youtube.com/watch?v=Nog1qAY0eG0) by [@TanTanDev](https://github.com/TanTanDev).
+- Audio: [Rust Gamedev Podcast 7: Interview with Fish Fight](https://rustgamedev.com/episodes/interview-with-fish-fight)
 
 ## Example usage
 
