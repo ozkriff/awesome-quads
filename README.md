@@ -30,6 +30,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Procedural Spider](https://darthdeus.itch.io/procedural-spider) - a game where you play a big spider chasing small spiders made for LD49.
 - [onitama_macroquad](https://github.com/Hydrazer/onitama_macroquad) - Onitama implementation.
 - [Excavation Site Alpha](https://github.com/gamma-delta/excavation-site-alpha) - build as far down into the earth as you can for LD48.
+- [CyberSub](https://github.com/andreivasiliu/cybersub) - a 2D submarine simulation prototype.
 
 ### On top of `miniquad`
 
