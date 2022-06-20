@@ -31,6 +31,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [onitama_macroquad](https://github.com/Hydrazer/onitama_macroquad) - Onitama implementation.
 - [Excavation Site Alpha](https://github.com/gamma-delta/excavation-site-alpha) - build as far down into the earth as you can for LD48.
 - [CyberSub](https://github.com/andreivasiliu/cybersub) - a 2D submarine simulation prototype.
+- [Quoridor](https://github.com/baehyunsol/Quoridor-rs) - [Quoridor](https://en.wikipedia.org/wiki/Quoridor) implemented in Rust and Macroquad.
 
 ### On top of `miniquad`
 
