@@ -53,7 +53,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 ## Libraries
 
 - [bevy miniquad](https://github.com/smokku/bevy_miniquad)
-- [gesture recogrizer](https://github.com/optozorax/gesture-recognizer)
+- [gesture recognizer](https://github.com/optozorax/gesture-recognizer)
 - [console log](https://github.com/canadaduane/sapp-console-log)
 - [egui miniquad](https://github.com/not-fl3/egui-miniquad)
 - [miniquad rusttype](https://github.com/not-fl3/miniquad_text_rusttype)
