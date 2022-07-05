@@ -100,7 +100,7 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 
 ### Other
 
-- [`gesture-recogrizer`](https://github.com/optozorax/gesture-recognizer) - library for recognizing simple touch gestures.
+- [`gesture-recognizer`](https://github.com/optozorax/gesture-recognizer) - library for recognizing simple touch gestures.
 - [`sapp-console-log`](https://github.com/canadaduane/sapp-console-log) - [`log-rs`](https://github.com/rust-lang/log) compatible logging for sapp-wasm.
 - [`quad-rand`](https://github.com/not-fl3/quad-rand) - wasm-friendly random number generator for quads.
 - [`circle2d`](https://github.com/koalefant/circle2d) - little physics library with only circles, used in [Crate Before Attack](https://cratebeforeattack.com).
