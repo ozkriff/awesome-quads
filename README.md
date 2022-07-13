@@ -55,6 +55,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Rusty Slider](https://github.com/ollej/rusty-slider) - markdown slideshow viewer.
 - [Sugarcubes](https://github.com/henryksloan/sugarcubes) - a tool for designing and testing automata.
 - [macroquad.purduehackers.com](https://macroquad.purduehackers.com) - a browser playground to help run workshops for a club.
+- [Fearless-NES](https://github.com/TomasKralCZ/Fearless-NES) - a NES emulator.
 
 ## Docs
 
