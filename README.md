@@ -56,6 +56,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Sugarcubes](https://github.com/henryksloan/sugarcubes) - a tool for designing and testing automata.
 - [macroquad.purduehackers.com](https://macroquad.purduehackers.com) - a browser playground to help run workshops for a club.
 - [Fearless-NES](https://github.com/TomasKralCZ/Fearless-NES) - a NES emulator.
+- [FDG](https://github.com/grantshandy/fdg) - a Force Directed Graph framework with a macroqad-based visualizator.
 
 ## Docs
 
