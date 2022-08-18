@@ -33,6 +33,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [CyberSub](https://github.com/andreivasiliu/cybersub) - a 2D submarine simulation prototype.
 - [Quoridor](https://github.com/baehyunsol/Quoridor-rs) - [Quoridor](https://en.wikipedia.org/wiki/Quoridor) implemented in Rust and Macroquad.
 - [Caveth](https://github.com/Dequog/caveth) - a game where you can shoot enemies with a cannon.
+- [Bunner Macroquad](https://github.com/ollej/rust-bunner-macroquad) - an implementation in Rust+Macroquad of the game Bunner from Code the Classics vol 1.
 
 ### On top of `miniquad`
 
