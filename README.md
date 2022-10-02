@@ -35,6 +35,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Caveth](https://github.com/Dequog/caveth) - a game where you can shoot enemies with a cannon.
 - [Bunner Macroquad](https://github.com/ollej/rust-bunner-macroquad) - an implementation in Rust+Macroquad of the game Bunner from Code the Classics vol 1.
 - [rusty_life](https://github.com/LittleB0xes/rusty_life) - another Game Of Life made with Rust and Macroquad.
+- [stunning barnacle](https://github.com/LittleB0xes/stunning_barnacle) - a simulator of primitive artificial life using attraction/reuplsion forces between many particles.
 
 ### On top of `miniquad`
 
