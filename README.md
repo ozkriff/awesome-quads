@@ -102,11 +102,11 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 Plugin has additional `.js` file, so to use it, you need to do extra work. Before deploying of your project on WASM, you could look at your dependencies using `cargo tree` and if you find these crates, add `.js` file from them.
 
-* [`sapp-jsutils`](https://github.com/not-fl3/sapp-jsutils/) - to build plugins. If you want to send/receive string or arbitrary object to JS, you should look at this.
-* [`quad-snd`](https://github.com/not-fl3/quad-snd) - to play sound.
-* [`quad-net`](https://github.com/not-fl3/quad-net) - to use network.
-* [`quad-url`](https://github.com/optozorax/quad-url) - to change current url, search parameters, and open links.
-* [`quad-storage`](https://github.com/optozorax/quad-storage) - to save data in persistent storage using Web Storage API.
+- [`sapp-jsutils`](https://github.com/not-fl3/sapp-jsutils/) - to build plugins. If you want to send/receive string or arbitrary object to JS, you should look at this.
+- [`quad-snd`](https://github.com/not-fl3/quad-snd) - to play sound.
+- [`quad-net`](https://github.com/not-fl3/quad-net) - to use network.
+- [`quad-url`](https://github.com/optozorax/quad-url) - to change current url, search parameters, and open links.
+- [`quad-storage`](https://github.com/optozorax/quad-storage) - to save data in persistent storage using Web Storage API.
 
 ### Other
 
