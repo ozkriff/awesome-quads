@@ -116,3 +116,4 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 - [`circle2d`](https://github.com/koalefant/circle2d) - little physics library with only circles, used in [Crate Before Attack](https://cratebeforeattack.com).
 - [`sparticles-rs`](https://github.com/Norlock/sparticles-rs) - library for making particle systems.
 - [`quad-gif`](https://github.com/ollej/quad-gif) - library for displaying looping GIF animations.
+- [`graplot`](https://github.com/elftausend/graplot) - an experimental plotting library.
