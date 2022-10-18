@@ -63,6 +63,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [FDG](https://github.com/grantshandy/fdg) - a Force Directed Graph framework with a macroqad-based visualizator.
 - [Fish flocking simulation](https://github.com/eckyputrady/fish-flocking-simulation) - a 2D fish flocking simulation.
 - [adambiltcliffe/macroquad-jfa](https://github.com/adambiltcliffe/macroquad-jfa) - a PoC demonstration of using the jump flood algorithm to generate outlines around shapes on the GPU using only macroquad.
+- [Collision simulator](https://github.com/Markek1/Collision-Simulator) - simulating correct particle collisions and algorithms to detect them efficiently.
 
 ## Docs
 
