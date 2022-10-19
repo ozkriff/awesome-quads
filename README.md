@@ -87,6 +87,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [With nakama](https://github.com/heroiclabs/fishgame-macroquad) - open-source scalable game server.
 - [JS interop](https://github.com/not-fl3/miniquad-js-interop-demo) as example for writing your own plugins.
 - [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - `good-web-game` + [`wasm-bindgen`](https://github.com/rustwasm/wasm-bindgen) example
+- [\*quad Android playground](https://github.com/not-fl3/quad-android-playground) - a collection of Android shenanigans as one single app. Useful to test \*quads compatibility with a given android phone and do regression testing on anything related to Android. 
 
 ## Libraries
 
