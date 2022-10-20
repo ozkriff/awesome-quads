@@ -66,6 +66,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Fish flocking simulation](https://github.com/eckyputrady/fish-flocking-simulation) - a 2D fish flocking simulation.
 - [adambiltcliffe/macroquad-jfa](https://github.com/adambiltcliffe/macroquad-jfa) - a PoC demonstration of using the jump flood algorithm to generate outlines around shapes on the GPU using only macroquad.
 - [Collision simulator](https://github.com/Markek1/Collision-Simulator) - simulating correct particle collisions and algorithms to detect them efficiently.
+- [Sugarcubes](https://github.com/henryksloan/sugarcubes) - a library and application for automata and formal languages, inspired by JFLAP.
 
 ## Docs
 
