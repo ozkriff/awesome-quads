@@ -83,7 +83,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - Audio: [Rust Gamedev Podcast 7: Interview with Fish Fight](https://rustgamedev.com/episodes/interview-with-fish-fight)
 - Video: [Rust breakout game tutorial](https://youtube.com/watch?v=xQ9YTY7ZgsI) by [@TanTanDev](https://github.com/TanTanDev).
 - Blog post: [The story behind Rusty Aquarium](https://blog.agical.se/en/posts/the-story-behind-rusty-aquarium).
-- Tutorial: [Psycho Pong](http://littleboxesgames.fr/posts/psycho-pong-part-one/) by [@LittleB0xes][https://github.com/LittleB0xes].
+- Tutorial: [Psycho Pong](http://littleboxesgames.fr/posts/psycho-pong-part-one/) by [@LittleB0xes](https://github.com/LittleB0xes).
 
 ## Example usage
 
