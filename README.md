@@ -18,7 +18,6 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Rusty Demon Attack](https://github.com/TanTanDev/rusty_demon_attack) - game inspired by the classic atari game: demon attack.
 - [Zemeroth](https://github.com/ozkriff/zemeroth) - turn-based hexagonal tactical game.
 - [Fish Game](https://github.com/heroiclabs/fishgame-macroquad) - online multiplayer game, created as a demonstration of [Nakama](https://heroiclabs.com/), an open-source scalable game server.
-- [Fish Fight](https://github.com/fishfight/FishFight) - a continuation of [Fish Game](https://github.com/heroiclabs/fishgame-macroquad) that is developed as an open source project but aims for commercial release across multiple platforms
 - [Vollmond](https://puppetmaster.itch.io/vollmond) - small non violent adventure in the style of Zelda 2.
 - [rymd](https://profan.itch.io/rymd) - space shooter game prototype.
 - [Scream mr. Jack](https://kakoeimon.itch.io/scream-mr-jack) - ???.
