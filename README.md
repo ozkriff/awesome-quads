@@ -37,6 +37,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [stunning barnacle](https://github.com/LittleB0xes/stunning_barnacle) - a simulator of primitive artificial life using attraction/reuplsion forces between many particles.
 - [RecWars](https://github.com/martin-t/rec-wars) - a multiplayer top-down tank shooter playable in browser. 
 - [Liminal Lab 000](https://pebaz.itch.io/liminal-lab-000) - a minimal game about solving puzzles by stepping on the floor buttons in the right sequence.
+- [R:Vust](https://sethmaddev.itch.io/rvust) - a side-scrolling shoot'em in a space setting.
 
 ### On top of `miniquad`
 
