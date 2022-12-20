@@ -125,3 +125,4 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 - [`sparticles-rs`](https://github.com/Norlock/sparticles-rs) - library for making particle systems.
 - [`quad-gif`](https://github.com/ollej/quad-gif) - library for displaying looping GIF animations.
 - [`graplot`](https://github.com/elftausend/graplot) - an experimental plotting library.
+- [`quad-svg`](https://github.com/macnelly/quad-svg) - renders svg to macroquad's Texture2D using [resvg](https://lib.rs/resvg).
