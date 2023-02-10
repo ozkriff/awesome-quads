@@ -86,6 +86,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - Blog post: [The story behind Rusty Aquarium](https://blog.agical.se/en/posts/the-story-behind-rusty-aquarium).
 - Tutorial: [Psycho Pong](http://littleboxesgames.fr/posts/psycho-pong-part-one/) by [@LittleB0xes](https://github.com/LittleB0xes).
 - Blog post: [Rust 2D Engine: Shipping games on Android](https://patreon.com/posts/73600033).
+- Tutorial: [Create a Clicker Game with Macroquad](https://dev.to/paper010/rust-create-a-clicker-game-with-macroquad-1820).
 
 ## Example usage
 
@@ -93,7 +94,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [With nakama](https://github.com/heroiclabs/fishgame-macroquad) - open-source scalable game server.
 - [JS interop](https://github.com/not-fl3/miniquad-js-interop-demo) as example for writing your own plugins.
 - [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - `good-web-game` + [`wasm-bindgen`](https://github.com/rustwasm/wasm-bindgen) example
-- [\*quad Android playground](https://github.com/not-fl3/quad-android-playground) - a collection of Android shenanigans as one single app. Useful to test \*quads compatibility with a given android phone and do regression testing on anything related to Android. 
+- [\*quad Android playground](https://github.com/not-fl3/quad-android-playground) - a collection of Android shenanigans as one single app. Useful to test \*quads compatibility with a given android phone and do regression testing on anything related to Android.
 
 ## Libraries
 
