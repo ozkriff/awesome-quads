@@ -90,7 +90,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ## Example usage
 
-- [With naia](https://github.com/naia-rs/naia-macroquad-example) - a cross-platform (including Wasm!) networking engine built in Rust.
+- [With naia](https://github.com/naia-lib/naia/tree/main/demos/macroquad) - a cross-platform (including Wasm!) networking engine built in Rust.
 - [With nakama](https://github.com/heroiclabs/fishgame-macroquad) - open-source scalable game server.
 - [JS interop](https://github.com/not-fl3/miniquad-js-interop-demo) as example for writing your own plugins.
 - [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - `good-web-game` + [`wasm-bindgen`](https://github.com/rustwasm/wasm-bindgen) example
