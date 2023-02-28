@@ -39,6 +39,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Liminal Lab 000](https://pebaz.itch.io/liminal-lab-000) - a minimal game about solving puzzles by stepping on the floor buttons in the right sequence.
 - [R:Vust](https://sethmaddev.itch.io/rvust) - a side-scrolling shoot'em in a space setting.
 - [Missile Command](https://github.com/buraksenyurt/missile-command) - A simple missile command game clone from 80's Atari.
+- [Tigris and Euphrates](https://github.com/0b01/tigris-and-euphrates) - a Rust implementation of T&E Board game.
 
 ### On top of `miniquad`
 
