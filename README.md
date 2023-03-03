@@ -40,6 +40,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [R:Vust](https://sethmaddev.itch.io/rvust) - a side-scrolling shoot'em in a space setting.
 - [Missile Command](https://github.com/buraksenyurt/missile-command) - A simple missile command game clone from 80's Atari.
 - [Tigris and Euphrates](https://github.com/0b01/tigris-and-euphrates) - a Rust implementation of T&E Board game.
+- [vustnexus](https://sethmaddev.itch.io/vustnexus) - defeat and Survive the infect of the Vust Swarm!
 
 ### On top of `miniquad`
 
