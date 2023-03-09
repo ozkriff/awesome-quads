@@ -35,7 +35,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Bunner Macroquad](https://github.com/ollej/rust-bunner-macroquad) - an implementation in Rust+Macroquad of the game Bunner from Code the Classics vol 1.
 - [rusty_life](https://github.com/LittleB0xes/rusty_life) - another Game Of Life made with Rust and Macroquad.
 - [stunning barnacle](https://github.com/LittleB0xes/stunning_barnacle) - a simulator of primitive artificial life using attraction/reuplsion forces between many particles.
-- [RecWars](https://github.com/martin-t/rec-wars) - a multiplayer top-down tank shooter playable in browser. 
+- [RecWars](https://github.com/martin-t/rec-wars) - a multiplayer top-down tank shooter playable in browser.
 - [Liminal Lab 000](https://pebaz.itch.io/liminal-lab-000) - a minimal game about solving puzzles by stepping on the floor buttons in the right sequence.
 - [R:Vust](https://sethmaddev.itch.io/rvust) - a side-scrolling shoot'em in a space setting.
 - [Missile Command](https://github.com/buraksenyurt/missile-command) - A simple missile command game clone from 80's Atari.
@@ -131,3 +131,4 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 - [`quad-gif`](https://github.com/ollej/quad-gif) - library for displaying looping GIF animations.
 - [`graplot`](https://github.com/elftausend/graplot) - an experimental plotting library.
 - [`quad-svg`](https://github.com/macnelly/quad-svg) - renders svg to macroquad's Texture2D using [resvg](https://lib.rs/resvg).
+- [`nanoshredder`](https://github.com/not-fl3/nanoshredder) - an experimental fork of makepad's shader-compiler that compiles rust-like DSL into GLSL, Metal, and HLSL.
