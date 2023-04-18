@@ -133,3 +133,4 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 - [`graplot`](https://github.com/elftausend/graplot) - an experimental plotting library.
 - [`quad-svg`](https://github.com/macnelly/quad-svg) - renders svg to macroquad's Texture2D using [resvg](https://lib.rs/resvg).
 - [`nanoshredder`](https://github.com/not-fl3/nanoshredder) - an experimental fork of makepad's shader-compiler that compiles rust-like DSL into GLSL, Metal, and HLSL.
+- [`macroquad_aspect`](https://github.com/TheEmeraldBee/macroquad_aspect) - an aspect ratio forcer for macroquad.
