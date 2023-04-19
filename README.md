@@ -42,6 +42,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Tigris and Euphrates](https://github.com/0b01/tigris-and-euphrates) - a Rust implementation of T&E Board game.
 - [vustnexus](https://sethmaddev.itch.io/vustnexus) - defeat and Survive the infect of the Vust Swarm!
 - [Makiomino](https://store.steampowered.com/app/1177840) - Original tile-matching puzzle game based on mix of classical mechanics.
+- [Princess Robot](https://adambiltcliffe.github.io) - a 2D platformer.
 
 ### On top of `miniquad`
 
