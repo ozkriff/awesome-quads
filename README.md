@@ -72,6 +72,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Collision simulator](https://github.com/Markek1/Collision-Simulator) - simulating correct particle collisions and algorithms to detect them efficiently.
 - [Sugarcubes](https://github.com/henryksloan/sugarcubes) - a library and application for automata and formal languages, inspired by JFLAP.
 - [Lorenz Attractor](https://github.com/guydols/Lorenz_Attractor) - a Rust implementation and visualization of the [Lorenz Attractor](https://en.wikipedia.org/wiki/Lorenz_system).
+- [Interactive Particles](https://github.com/cppxor2arr/InteractiveParticles) - a playground to interact with particles.
 
 ## Docs
 
