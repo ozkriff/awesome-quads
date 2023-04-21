@@ -43,6 +43,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [vustnexus](https://sethmaddev.itch.io/vustnexus) - defeat and Survive the infect of the Vust Swarm!
 - [Makiomino](https://store.steampowered.com/app/1177840) - Original tile-matching puzzle game based on mix of classical mechanics.
 - [Princess Robot](https://adambiltcliffe.github.io) - a 2D platformer.
+- [Trainwreck](https://whenyou77.itch.io/trainwreck) - switch levers to lead the trains onto the right track.
 
 ### On top of `miniquad`
 
