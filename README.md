@@ -75,6 +75,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Lorenz Attractor](https://github.com/guydols/Lorenz_Attractor) - a Rust implementation and visualization of the [Lorenz Attractor](https://en.wikipedia.org/wiki/Lorenz_system).
 - [Interactive Particles](https://github.com/cppxor2arr/InteractiveParticles) - a playground to interact with particles.
 - [Flappy Bird AI](https://github.com/bones-ai/rust-flappy-bird-ai) - AI learns to play flappy bird using neuro-evolution.
+- [PID Controller Simualation](https://github.com/sparshg/pid-balancer) - a Proportional-Integral-Derivative controller simulation to balance a ball on cart.
 
 ## Docs
 
