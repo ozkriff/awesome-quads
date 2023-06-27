@@ -4,16 +4,16 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 ## Game engines
 
-- [`miniquad`](https://github.com/not-fl3/miniquad) - main crate, engines below build on top of it. Supports WASM. Therefore everything build on top of it supports WASM too.
-- [`macroquad`](https://github.com/not-fl3/macroquad) - simple to use library from author of `miniquad`.
-- [`good-web-game`](https://github.com/not-fl3/good-web-game) - crate to easily port your [ggez](https://github.com/ggez/ggez) to WASM.
-- [`emerald`](https://github.com/Bombfuse/emerald) - game engine with physics, audio, graphics, ECS.
-- [`rust-rpg-toolkit`](https://github.com/olefasting/rust_rpg_toolkit) - a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.
-- [`omegaquad`](https://github.com/gamma-delta/omegaquad) - hackable, opinionated layer on top of Macroquad for writing games
+- [miniquad](https://github.com/not-fl3/miniquad) - main crate, engines below build on top of it. Supports WASM. Therefore everything build on top of it supports WASM too.
+- [macroquad](https://github.com/not-fl3/macroquad) - simple to use library from author of miniquad.
+- [good-web-game](https://github.com/not-fl3/good-web-game) - crate to easily port your [ggez](https://github.com/ggez/ggez) to WASM.
+- [emerald](https://github.com/Bombfuse/emerald) - game engine with physics, audio, graphics, ECS.
+- [rust-rpg-toolkit](https://github.com/olefasting/rust_rpg_toolkit) - a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.
+- [omegaquad](https://github.com/gamma-delta/omegaquad) - hackable, opinionated layer on top of Macroquad for writing games
 
 ## Games
 
-### On top of `macroquad`
+### Games: On top of macroquad
 
 - [Rusty Demon Attack](https://github.com/TanTanDev/rusty_demon_attack) - game inspired by the classic atari game: demon attack.
 - [Zemeroth](https://github.com/ozkriff/zemeroth) - turn-based hexagonal tactical game.
@@ -44,26 +44,26 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Makiomino](https://store.steampowered.com/app/1177840) - Original tile-matching puzzle game based on mix of classical mechanics.
 - [Princess Robot](https://adambiltcliffe.github.io) - a 2D platformer.
 - [Trainwreck](https://whenyou77.itch.io/trainwreck) - switch levers to lead the trains onto the right track.
-- [The Beat Of Space](https://reddit.com/r/rust_gamedev/comments/11kcgcj/the_beat_of_space) - a space-themed rhythm game. 
+- [The Beat Of Space](https://reddit.com/r/rust_gamedev/comments/11kcgcj/the_beat_of_space) - a space-themed rhythm game.
 
-### On top of `miniquad`
+### Games: On top of miniquad
 
 - [Fermi Paradox](https://github.com/tversteeg/ld46) - arcanoid-like game with moving enemies in space.
 - [Crate Before Attack](https://cratebeforeattack.com) - worms-like multiplayer game where frogs combat their friends while navigating a landscape with their sticky tongue. It is a hybrid of a realtime and turn-based game.
 - [Soldank](https://github.com/smokku/soldank) - a remake of Soldat game.
 - [Fires of Eschaton](https://firesofeschaton.com/) - a PvP focused turn-based fantasy tactics game.
 
-### On top of `good-web-game`
+### Games: On top of good-web-game
 
 - [Dig Escape](https://github.com/TanTanDev/DigEscape) - simple puzzle game about digging.
 
 ## Apps or visualizations
 
-### On top of `macroquad`
+### Apps or visualizations: On top of macroquad
 
 - [Portal Explorer](https://github.com/optozorax/portal) - web visualizator of mind-blowing portals.
 - [Rusty Aquarium](https://github.com/ollej/rusty-aquarium) - a monitoring visualization as an aquarium.
-- [Particles editor](https://github.com/not-fl3/particles-editor) for your games in `macroquad`.
+- [Particles editor](https://github.com/not-fl3/particles-editor) for your games in macroquad.
 - [bema](https://github.com/yazgoo/bema) - slideshow DSL.
 - [Rusty Slider](https://github.com/ollej/rusty-slider) - markdown slideshow viewer.
 - [Sugarcubes](https://github.com/henryksloan/sugarcubes) - a tool for designing and testing automata.
@@ -77,13 +77,13 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Interactive Particles](https://github.com/cppxor2arr/InteractiveParticles) - a playground to interact with particles.
 - [Flappy Bird AI](https://github.com/bones-ai/rust-flappy-bird-ai) - AI learns to play flappy bird using neuro-evolution.
 - [PID Controller Simualation](https://github.com/sparshg/pid-balancer) - a Proportional-Integral-Derivative controller simulation to balance a ball on cart.
-- [Escape](https://github.com/bones-ai/rust-escape-ai) - AI plays a small escape room game. 
+- [Escape](https://github.com/bones-ai/rust-escape-ai) - AI plays a small escape room game.
 - [Tarsila](https://github.com/yds12/tarsila) - pixelart and spritesheet editor.
 
 ## Docs
 
-- [Platformer book](https://not-fl3.github.io/platformer-book) - WIP book about creating your platformer game in `macroquad`.
-- [Making an online multiplayer game in Rust with Nakama](https://heroiclabs.com/blog/tutorials/rust-fishgame/) - tutorial about creating multiplayer platformer game in `macroquad` from scratch.
+- [Platformer book](https://not-fl3.github.io/platformer-book) - WIP book about creating your platformer game in macroquad.
+- [Making an online multiplayer game in Rust with Nakama](https://heroiclabs.com/blog/tutorials/rust-fishgame/) - tutorial about creating multiplayer platformer game in macroquad from scratch.
 - [Publish game on Android with Macroquad](https://macroquad.rs/tutorials/android) - a tutorial about building a macroquad game for Android and uploading it to Google Play.
 - [Java interop with Miniquad on Android](https://macroquad.rs/articles/java).
 
@@ -104,41 +104,41 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [With naia](https://github.com/naia-lib/naia/tree/main/demos/macroquad) - a cross-platform (including Wasm!) networking engine built in Rust.
 - [With nakama](https://github.com/heroiclabs/fishgame-macroquad) - open-source scalable game server.
 - [JS interop](https://github.com/not-fl3/miniquad-js-interop-demo) as example for writing your own plugins.
-- [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - `good-web-game` + [`wasm-bindgen`](https://github.com/rustwasm/wasm-bindgen) example
+- [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - good-web-game + [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) example
 - [\*quad Android playground](https://github.com/not-fl3/quad-android-playground) - a collection of Android shenanigans as one single app. Useful to test \*quads compatibility with a given android phone and do regression testing on anything related to Android.
 
 ## Libraries
 
-### Integrations
+### Libraries: Integrations
 
-- [`bevy_miniquad`](https://github.com/smokku/bevy_miniquad) - [`bevy`](https://github.com/bevyengine/bevy) + `miniquad`.
-- [`miniquad_text_rusttype`](https://github.com/not-fl3/miniquad_text_rusttype) - [`rusttype`](https://github.com/redox-os/rusttype) in `miniquad`.
-- [`egui-miniquad`](https://github.com/not-fl3/egui-miniquad) - [`egui`](https://github.com/emilk/egui) in `miniquad`.
-- [`egui-macroquad`](https://github.com/optozorax/egui-macroquad) - [`egui`](https://github.com/emilk/egui) in `macroquad`.
-- [`imgui-miniquad-render`](https://github.com/not-fl3/imgui-miniquad-render) - [`imgui-rs`](https://github.com/imgui-rs/imgui-rs) in `miniquad`.
-- [`femtovg`](https://github.com/smokku/femtovg) - antialiased 2D vector drawing library (miniquad port).
-- [`nonaquad`](https://github.com/nokola/nonaquad) - vector anti-aliased graphics renderer.
-- [`cvars-console-macroquad`](https://github.com/martin-t/cvars) - in-game console for changing `cvars` at runtime.
+- [bevy_miniquad](https://github.com/smokku/bevy_miniquad) - [bevy](https://github.com/bevyengine/bevy) + miniquad.
+- [miniquad_text_rusttype](https://github.com/not-fl3/miniquad_text_rusttype) - [rusttype](https://github.com/redox-os/rusttype) in miniquad.
+- [egui-miniquad](https://github.com/not-fl3/egui-miniquad) - [egui](https://github.com/emilk/egui) in miniquad.
+- [egui-macroquad](https://github.com/optozorax/egui-macroquad) - [egui](https://github.com/emilk/egui) in macroquad.
+- [imgui-miniquad-render](https://github.com/not-fl3/imgui-miniquad-render) - [imgui-rs](https://github.com/imgui-rs/imgui-rs) in miniquad.
+- [femtovg](https://github.com/smokku/femtovg) - antialiased 2D vector drawing library (miniquad port).
+- [nonaquad](https://github.com/nokola/nonaquad) - vector anti-aliased graphics renderer.
+- [cvars-console-macroquad](https://github.com/martin-t/cvars) - in-game console for changing cvars at runtime.
 
-### Plugins
+### Libraries: Plugins
 
 Plugin has additional `.js` file, so to use it, you need to do extra work. Before deploying of your project on WASM, you could look at your dependencies using `cargo tree` and if you find these crates, add `.js` file from them.
 
-- [`sapp-jsutils`](https://github.com/not-fl3/sapp-jsutils/) - to build plugins. If you want to send/receive string or arbitrary object to JS, you should look at this.
-- [`quad-snd`](https://github.com/not-fl3/quad-snd) - to play sound.
-- [`quad-net`](https://github.com/not-fl3/quad-net) - to use network.
-- [`quad-url`](https://github.com/optozorax/quad-url) - to change current url, search parameters, and open links.
-- [`quad-storage`](https://github.com/optozorax/quad-storage) - to save data in persistent storage using Web Storage API.
+- [sapp-jsutils](https://github.com/not-fl3/sapp-jsutils/) - to build plugins. If you want to send/receive string or arbitrary object to JS, you should look at this.
+- [quad-snd](https://github.com/not-fl3/quad-snd) - to play sound.
+- [quad-net](https://github.com/not-fl3/quad-net) - to use network.
+- [quad-url](https://github.com/optozorax/quad-url) - to change current url, search parameters, and open links.
+- [quad-storage](https://github.com/optozorax/quad-storage) - to save data in persistent storage using Web Storage API.
 
-### Other
+### Libraries: Other
 
-- [`gesture-recognizer`](https://github.com/optozorax/gesture-recognizer) - library for recognizing simple touch gestures.
-- [`sapp-console-log`](https://github.com/canadaduane/sapp-console-log) - [`log-rs`](https://github.com/rust-lang/log) compatible logging for sapp-wasm.
-- [`quad-rand`](https://github.com/not-fl3/quad-rand) - wasm-friendly random number generator for quads.
-- [`circle2d`](https://github.com/koalefant/circle2d) - little physics library with only circles, used in [Crate Before Attack](https://cratebeforeattack.com).
-- [`sparticles-rs`](https://github.com/Norlock/sparticles-rs) - library for making particle systems.
-- [`quad-gif`](https://github.com/ollej/quad-gif) - library for displaying looping GIF animations.
-- [`graplot`](https://github.com/elftausend/graplot) - an experimental plotting library.
-- [`quad-svg`](https://github.com/macnelly/quad-svg) - renders svg to macroquad's Texture2D using [resvg](https://lib.rs/resvg).
-- [`nanoshredder`](https://github.com/not-fl3/nanoshredder) - an experimental fork of makepad's shader-compiler that compiles rust-like DSL into GLSL, Metal, and HLSL.
-- [`macroquad_aspect`](https://github.com/TheEmeraldBee/macroquad_aspect) - an aspect ratio forcer for macroquad.
+- [gesture-recognizer](https://github.com/optozorax/gesture-recognizer) - library for recognizing simple touch gestures.
+- [sapp-console-log](https://github.com/canadaduane/sapp-console-log) - [log-rs](https://github.com/rust-lang/log) compatible logging for sapp-wasm.
+- [quad-rand](https://github.com/not-fl3/quad-rand) - wasm-friendly random number generator for quads.
+- [circle2d](https://github.com/koalefant/circle2d) - little physics library with only circles, used in [Crate Before Attack](https://cratebeforeattack.com).
+- [sparticles-rs](https://github.com/Norlock/sparticles-rs) - library for making particle systems.
+- [quad-gif](https://github.com/ollej/quad-gif) - library for displaying looping GIF animations.
+- [graplot](https://github.com/elftausend/graplot) - an experimental plotting library.
+- [quad-svg](https://github.com/macnelly/quad-svg) - renders svg to macroquad's Texture2D using [resvg](https://lib.rs/resvg).
+- [nanoshredder](https://github.com/not-fl3/nanoshredder) - an experimental fork of makepad's shader-compiler that compiles rust-like DSL into GLSL, Metal, and HLSL.
+- [macroquad_aspect](https://github.com/TheEmeraldBee/macroquad_aspect) - an aspect ratio forcer for macroquad.
