@@ -130,6 +130,7 @@ Plugin has additional `.js` file, so to use it, you need to do extra work. Befor
 - [quad-net](https://github.com/not-fl3/quad-net) - to use network.
 - [quad-url](https://github.com/optozorax/quad-url) - to change current url, search parameters, and open links.
 - [quad-storage](https://github.com/optozorax/quad-storage) - to save data in persistent storage using Web Storage API.
+- [gamepads](https://github.com/fornwall/gamepads) - to access gamepads.
 
 ### Libraries: Other
 
