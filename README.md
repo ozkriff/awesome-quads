@@ -45,6 +45,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Princess Robot](https://adambiltcliffe.github.io) - a 2D platformer.
 - [Trainwreck](https://whenyou77.itch.io/trainwreck) - switch levers to lead the trains onto the right track.
 - [The Beat Of Space](https://reddit.com/r/rust_gamedev/comments/11kcgcj/the_beat_of_space) - a space-themed rhythm game.
+- [Mage Rush](https://iinacho.itch.io/mage-rush) - a micro vampiresurvivors-like game made for LowRezJam'23.
 
 ### Games: On top of miniquad
 
