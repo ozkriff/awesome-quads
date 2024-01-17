@@ -82,6 +82,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Tarsila](https://github.com/yds12/tarsila) - pixelart and spritesheet editor.
 - [Particle Life](https://github.com/Markek1/particle-life) - a particle simulation inspired by Jeffrey Ventrella's Clusters.
 - [Fuzzy Drone Controller](https://github.com/sparshg/fuzzy-controller) - a controller that uses Mamdani Fuzzy inference system to control a drone, simulated using a physics engine.
+- [Shell Texturing Toy](https://github.com/gre-v-el/Shell-Texturing) - an interactive shell texturing demo.
 
 ## Docs
 
