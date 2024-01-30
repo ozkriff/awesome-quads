@@ -47,6 +47,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [The Beat Of Space](https://reddit.com/r/rust_gamedev/comments/11kcgcj/the_beat_of_space) - a space-themed rhythm game.
 - [Mage Rush](https://iinacho.itch.io/mage-rush) - a micro vampiresurvivors-like game made for LowRezJam'23.
 - [pong-macroquad-hecs](https://github.com/j0of/pong-macroquad-hecs) - a "BLAZINGLY FAST" Pong clone implemented using Macroquad and hecs.
+- [unnamed rogue-like by ProfAndreaPollini](https://github.com/ProfAndreaPollini/roguelike-rust-macroquad-noname) - a WIP rl done as part of "RogueLikeDev Does the Complete Roguelike Tutorial".
 
 ### Games: On top of miniquad
 
