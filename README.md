@@ -49,6 +49,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [pong-macroquad-hecs](https://github.com/j0of/pong-macroquad-hecs) - a "BLAZINGLY FAST" Pong clone implemented using Macroquad and hecs.
 - [unnamed rogue-like by ProfAndreaPollini](https://github.com/ProfAndreaPollini/roguelike-rust-macroquad-noname) - a WIP rl done as part of "RogueLikeDev Does the Complete Roguelike Tutorial".
 - [Manahex](https://store.steampowered.com/app/2774650/Manahex) - a fantasy-themed card and board game for 2-4 players built with Macroquad and Rocket.
+- [Tombs of Mirituhg](https://wilgre.itch.io/tombs-of-mirituhg) - a simple roguelite done as part of Acerola Jam.
 
 ### Games: On top of miniquad
 
