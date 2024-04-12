@@ -92,7 +92,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 
 - [Platformer book](https://not-fl3.github.io/platformer-book) - WIP book about creating your platformer game in macroquad.
 - [Making an online multiplayer game in Rust with Nakama](https://heroiclabs.com/blog/tutorials/rust-fishgame/) - tutorial about creating multiplayer platformer game in macroquad from scratch.
-- [Publish game on Android with Macroquad](https://macroquad.rs/tutorials/android) - a tutorial about building a macroquad game for Android and uploading it to Google Play.
+- [Publish game on Android with Macroquad](https://macroquad.rs/articles/android/) - a tutorial about building a macroquad game for Android and uploading it to Google Play.
 - [Java interop with Miniquad on Android](https://macroquad.rs/articles/java).
 
 ## Publications
