@@ -116,6 +116,10 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - good-web-game + [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) example
 - [\*quad Android playground](https://github.com/not-fl3/quad-android-playground) - a collection of Android shenanigans as one single app. Useful to test \*quads compatibility with a given android phone and do regression testing on anything related to Android.
 
+## Tools
+
+- [cargo-webquad](https://github.com/not-fl3/cargo-webquad) - a little helper to run debug builds of miniquad/macroquad-based projects on web.
+
 ## Libraries
 
 ### Libraries: Integrations
