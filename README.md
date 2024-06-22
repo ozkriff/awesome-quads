@@ -51,6 +51,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Manahex](https://store.steampowered.com/app/2774650/Manahex) - a fantasy-themed card and board game for 2-4 players built with Macroquad and Rocket.
 - [Tombs of Mirituhg](https://wilgre.itch.io/tombs-of-mirituhg) - a simple roguelite done as part of Acerola Jam.
 - [Minesweeper](https://jumbledfox.github.io/minesweeper) - a cute Minesweeper game with a custom immediate-mode GUI.
+- [Celestial Garden](https://antonmakesgames.itch.io/celestial-garden) - a game about cultivating an asteroid belt..
 
 ### Games: On top of miniquad
 
