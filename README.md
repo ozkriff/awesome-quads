@@ -107,6 +107,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - Tutorial: [Psycho Pong](http://littleboxesgames.fr/posts/psycho-pong-part-one/) by [@LittleB0xes](https://github.com/LittleB0xes).
 - Blog post: [Rust 2D Engine: Shipping games on Android](https://patreon.com/posts/73600033).
 - Tutorial: [Create a Clicker Game with Macroquad](https://dev.to/paper010/rust-create-a-clicker-game-with-macroquad-1820).
+- Tutorial: [Macroquad Game with ECS and Rapier physics](https://rodneylab.com/macroquad-rapier-ecs).
 
 ## Example usage
 
