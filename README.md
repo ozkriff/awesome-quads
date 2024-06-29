@@ -52,6 +52,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Tombs of Mirituhg](https://wilgre.itch.io/tombs-of-mirituhg) - a simple roguelite done as part of Acerola Jam.
 - [Minesweeper](https://jumbledfox.github.io/minesweeper) - a cute Minesweeper game with a custom immediate-mode GUI.
 - [Celestial Garden](https://antonmakesgames.itch.io/celestial-garden) - a game about cultivating an asteroid belt..
+- [ChessIto](https://mewily.itch.io/chessito) - a small game based on Chess.
 
 ### Games: On top of miniquad
 
