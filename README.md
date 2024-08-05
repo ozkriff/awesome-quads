@@ -91,6 +91,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Fuzzy Drone Controller](https://github.com/sparshg/fuzzy-controller) - a controller that uses Mamdani Fuzzy inference system to control a drone, simulated using a physics engine.
 - [Shell Texturing Toy](https://github.com/gre-v-el/Shell-Texturing) - an interactive shell texturing demo.
 - [eportal](https://github.com/kul-sudo/eportal) - an evolution simulator.
+- [cacophony](https://github.com/subalterngames/cacophony) - a minimalist and ergonomic MIDI sequencer.
 
 ## Docs
 
