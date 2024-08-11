@@ -54,6 +54,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Celestial Garden](https://antonmakesgames.itch.io/celestial-garden) - a game about cultivating an asteroid belt..
 - [ChessIto](https://mewily.itch.io/chessito) - a small game based on Chess.
 - [Not Minesweeper](https://trolledwoods.itch.io/notminesweeper) - no mines, no danger, just numbers and tiles, and you.
+- [Crab's pipes](https://glepmifom.itch.io/crabs-pipes) - a game about crab exploring pipes to find diamonds.
 
 ### Games: On top of miniquad
 
