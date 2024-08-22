@@ -55,6 +55,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [ChessIto](https://mewily.itch.io/chessito) - a small game based on Chess.
 - [Not Minesweeper](https://trolledwoods.itch.io/notminesweeper) - no mines, no danger, just numbers and tiles, and you.
 - [Crab's pipes](https://glepmifom.itch.io/crabs-pipes) - a game about crab exploring pipes to find diamonds.
+- [Duo Duo](https://cronno.itch.io/duo-duo) - an arcade style score attack game that tests your dexterity and coordination.
 
 ### Games: On top of miniquad
 
