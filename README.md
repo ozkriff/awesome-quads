@@ -56,6 +56,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Not Minesweeper](https://trolledwoods.itch.io/notminesweeper) - no mines, no danger, just numbers and tiles, and you.
 - [Crab's pipes](https://glepmifom.itch.io/crabs-pipes) - a game about crab exploring pipes to find diamonds.
 - [Duo Duo](https://cronno.itch.io/duo-duo) - an arcade style score attack game that tests your dexterity and coordination.
+- [JumbledFox's Breakout](https://jumbledfox.github.io/breakout) - a breakout game with custom levels and an editor.
 
 ### Games: On top of miniquad
 
