@@ -64,6 +64,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Crate Before Attack](https://cratebeforeattack.com) - worms-like multiplayer game where frogs combat their friends while navigating a landscape with their sticky tongue. It is a hybrid of a realtime and turn-based game.
 - [Soldank](https://github.com/smokku/soldank) - a remake of Soldat game.
 - [Fires of Eschaton](https://firesofeschaton.com/) - a PvP focused turn-based fantasy tactics game.
+- [Coric's Quest](https://tungtn.itch.io/corics-quest) - a small fantasy-themed console-style RPG.
 
 ### Games: On top of good-web-game
 
