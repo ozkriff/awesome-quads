@@ -57,6 +57,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Crab's pipes](https://glepmifom.itch.io/crabs-pipes) - a game about crab exploring pipes to find diamonds.
 - [Duo Duo](https://cronno.itch.io/duo-duo) - an arcade style score attack game that tests your dexterity and coordination.
 - [JumbledFox's Breakout](https://jumbledfox.github.io/breakout) - a breakout game with custom levels and an editor.
+- [Lift](https://droog71.itch.io/lift) - a hovercraft racing game.
 
 ### Games: On top of miniquad
 
