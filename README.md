@@ -58,6 +58,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Duo Duo](https://cronno.itch.io/duo-duo) - an arcade style score attack game that tests your dexterity and coordination.
 - [JumbledFox's Breakout](https://jumbledfox.github.io/breakout) - a breakout game with custom levels and an editor.
 - [Lift](https://droog71.itch.io/lift) - a hovercraft racing game.
+- [quad_sokoban](https://github.com/puppysh43/quad_sokoban) - a sokoban game featuring a campaign and a level editor.
 
 ### Games: On top of miniquad
 
