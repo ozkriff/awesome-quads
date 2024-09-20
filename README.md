@@ -145,6 +145,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [femtovg](https://github.com/smokku/femtovg) - antialiased 2D vector drawing library (miniquad port).
 - [nonaquad](https://github.com/nokola/nonaquad) - vector anti-aliased graphics renderer.
 - [cvars-console-macroquad](https://github.com/martin-t/cvars) - in-game console for changing cvars at runtime.
+- [backer](https://github.com/ejjonny/backer/tree/main/examples/macroquad-example) - a 'plug & play' UI layout crate.
 
 ### Libraries: Plugins
 
