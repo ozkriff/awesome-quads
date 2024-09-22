@@ -59,6 +59,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [JumbledFox's Breakout](https://jumbledfox.github.io/breakout) - a breakout game with custom levels and an editor.
 - [Lift](https://droog71.itch.io/lift) - a hovercraft racing game.
 - [quad_sokoban](https://github.com/puppysh43/quad_sokoban) - a sokoban game featuring a campaign and a level editor.
+- [Isometric Minecraft](https://github.com/bioastroiner/isometric_minecraft) - an isometric Minecraft-like prototype.
 
 ### Games: On top of miniquad
 
