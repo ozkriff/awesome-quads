@@ -131,6 +131,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [wasm-bindgen interop](https://github.com/smokku/gwg-bindgen) - good-web-game + [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) example
 - [\*quad Android playground](https://github.com/not-fl3/quad-android-playground) - a collection of Android shenanigans as one single app. Useful to test \*quads compatibility with a given android phone and do regression testing on anything related to Android.
 - [miniquad_kaios_tests](https://github.com/birhburh/miniquad_kaios_tests) - example apps for miniquad to run on KaiOS.
+- [macroquad_quickstart](https://github.com/brettchalupa/macroquad_quickstart) - an opinionated template for buiding games in Rust with Macroquad, specfically focused on targeting the web and PC.
 
 ## Tools
 
