@@ -62,6 +62,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Isometric Minecraft](https://github.com/bioastroiner/isometric_minecraft) - an isometric Minecraft-like prototype.
 - [Spooky Tower Attack](https://kzerot.itch.io/spooky-tower-attack) - a reverse tower defense game for GBJAM'12.
 - [Tokonoma](https://cancrizans.itch.io/tokonoma) - an abstract strategy board game for two players that is vaguely similar to chess/checkers/Hive.
+- [Ball in a Box](https://inzan17.itch.io/ball-in-a-box) - a desktop toy where you have a box with a ball inside it.
 
 ### Games: On top of miniquad
 
