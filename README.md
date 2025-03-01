@@ -104,6 +104,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [eportal](https://github.com/kul-sudo/eportal) - an evolution simulator.
 - [cacophony](https://github.com/subalterngames/cacophony) - a minimalist and ergonomic MIDI sequencer.
 - [Verlet Physics Playground](https://codeberg.org/polaris64/verlet-physics-playground-macroquad) - a Verlet physics playground demo.
+- [evolution-rs](https://github.com/kostareg/evolution-rs) - simulating the evolution of tiny neural networks.
 
 ## Docs
 
