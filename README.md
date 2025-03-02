@@ -63,6 +63,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Spooky Tower Attack](https://kzerot.itch.io/spooky-tower-attack) - a reverse tower defense game for GBJAM'12.
 - [Tokonoma](https://cancrizans.itch.io/tokonoma) - an abstract strategy board game for two players that is vaguely similar to chess/checkers/Hive.
 - [Ball in a Box](https://inzan17.itch.io/ball-in-a-box) - a desktop toy where you have a box with a ball inside it.
+- [Robomaid Rush](https://creamsicle42.itch.io/robomaid-rush) - a Warioware inspired microgame-em-up.
 
 ### Games: On top of miniquad
 
