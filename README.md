@@ -129,6 +129,9 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - Tutorial: [Create a Clicker Game with Macroquad](https://dev.to/paper010/rust-create-a-clicker-game-with-macroquad-1820).
 - Tutorial: [Macroquad Game with ECS and Rapier physics](https://rodneylab.com/macroquad-rapier-ecs).
 
+## Books
+- [Game development in Rust with Macroquad](https://agical.se/buymq) - A printed version of the book Game Development in Rust with Macroquad.
+
 ## Example usage
 
 - [With naia](https://github.com/naia-lib/naia/tree/main/demos/macroquad) - a cross-platform (including Wasm!) networking engine built in Rust.
