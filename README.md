@@ -108,6 +108,10 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Verlet Physics Playground](https://codeberg.org/polaris64/verlet-physics-playground-macroquad) - a Verlet physics playground demo.
 - [evolution-rs](https://github.com/kostareg/evolution-rs) - simulating the evolution of tiny neural networks.
 
+## Printed Books
+
+- [Game development in Rust with Macroquad](https://agical.se/buymq) - a printed version of the book "Game Development in Rust with Macroquad".
+
 ## Docs
 
 - [Platformer book](https://not-fl3.github.io/platformer-book) - WIP book about creating your platformer game in macroquad.
@@ -128,9 +132,6 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - Blog post: [Rust 2D Engine: Shipping games on Android](https://patreon.com/posts/73600033).
 - Tutorial: [Create a Clicker Game with Macroquad](https://dev.to/paper010/rust-create-a-clicker-game-with-macroquad-1820).
 - Tutorial: [Macroquad Game with ECS and Rapier physics](https://rodneylab.com/macroquad-rapier-ecs).
-
-## Books
-- [Game development in Rust with Macroquad](https://agical.se/buymq) - A printed version of the book Game Development in Rust with Macroquad.
 
 ## Example usage
 
