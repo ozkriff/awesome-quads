@@ -109,6 +109,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Verlet Physics Playground](https://codeberg.org/polaris64/verlet-physics-playground-macroquad) - a Verlet physics playground demo.
 - [evolution-rs](https://github.com/kostareg/evolution-rs) - simulating the evolution of tiny neural networks.
 - [TawnyAV](https://github.com/LeonStansfield/tawnyAV) - Live audio-visual software built on macroquad designed to display dynamic visualizations based on audio captured from a microphone.
+- [Sbixel](https://github.com/gale93/sbixel) - A simple pixel physics simulator
 
 ## Printed Books
 
