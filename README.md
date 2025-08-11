@@ -66,6 +66,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Robomaid Rush](https://creamsicle42.itch.io/robomaid-rush) - a Warioware inspired microgame-em-up.
 - [Planets!](https://alakajam.com/21st-alakajam/1594/planets/) - a puzzle game about building stable planet systems.
 - [Dangerous Dave: Rust Ed.](https://github.com/oawad79/dave-rs) - a 2D platformer game inspired by the classic "Dangerous Dave" game.
+- [The Cheese Chase](https://sattva9.itch.io/the-cheese-chase) - a simple arcade game where you play as a rat collecting cheese while avoiding rat repellent spray.
 
 ### Games: On top of miniquad
 
@@ -109,7 +110,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Verlet Physics Playground](https://codeberg.org/polaris64/verlet-physics-playground-macroquad) - a Verlet physics playground demo.
 - [evolution-rs](https://github.com/kostareg/evolution-rs) - simulating the evolution of tiny neural networks.
 - [TawnyAV](https://github.com/LeonStansfield/tawnyAV) - Live audio-visual software built on macroquad designed to display dynamic visualizations based on audio captured from a microphone.
-- [Sbixel](https://github.com/gale93/sbixel) - A simple pixel physics simulator
+- [Sbixel](https://github.com/gale93/sbixel) - A simple pixel physics simulator.
 
 ## Printed Books
 
