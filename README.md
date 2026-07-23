@@ -67,6 +67,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Planets!](https://alakajam.com/21st-alakajam/1594/planets/) - a puzzle game about building stable planet systems.
 - [Dangerous Dave: Rust Ed.](https://github.com/oawad79/dave-rs) - a 2D platformer game inspired by the classic "Dangerous Dave" game.
 - [The Cheese Chase](https://sattva9.itch.io/the-cheese-chase) - a simple arcade game where you play as a rat collecting cheese while avoiding rat repellent spray.
+- [Riichi Mahjong RS](https://github.com/h1g0/riichi_mahjong_rs) - an implementation for Japanese Riichi Mahjong game in Rust.
 
 ### Games: On top of miniquad
 
