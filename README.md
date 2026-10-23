@@ -67,6 +67,7 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [Planets!](https://alakajam.com/21st-alakajam/1594/planets/) - a puzzle game about building stable planet systems.
 - [Dangerous Dave: Rust Ed.](https://github.com/oawad79/dave-rs) - a 2D platformer game inspired by the classic "Dangerous Dave" game.
 - [The Cheese Chase](https://sattva9.itch.io/the-cheese-chase) - a simple arcade game where you play as a rat collecting cheese while avoiding rat repellent spray.
+- [Razdor](https://github.com/indicozy/razdor) - an open-source reimplementation of the tactical RPG Discord Times (2004) with desktop and mobile (Android/iOS) touch support.
 
 ### Games: On top of miniquad
 
